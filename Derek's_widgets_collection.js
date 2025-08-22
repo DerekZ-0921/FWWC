@@ -1,7 +1,6 @@
 {
   "title": "D.自用合集",
   "description": "东东自用模块合集",
-  "site": "https://github.com/DerekZ-0921/Derek",
   "widgets": [
     {
       "id": "forward.combined.media.lists",
