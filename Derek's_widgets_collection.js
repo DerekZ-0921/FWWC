@@ -1,12 +1,8 @@
-WidgetMetadata = {
-  id: "derek.widgets.collection",
-  title: "D.自用合集",
-  version: "1.0.0",
-  requiredVersion: "0.0.1",
-  description: "东东自用模块合集",
-  author: "Derek",
-  site: "https://github.com/DerekZ-0921/Derek",
-  widgets: [
+{
+  "title": "D.自用合集",
+  "description": "东东自用模块合集",
+  "site": "https://github.com/DerekZ-0921/Derek",
+  "widgets": [
     {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",
