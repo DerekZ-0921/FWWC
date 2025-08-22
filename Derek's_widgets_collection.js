@@ -70,6 +70,6 @@ WidgetMetadata = {
       "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
     },
-  ]
-}
-module.exports = WidgetMetadata;
+  ],
+};
+
