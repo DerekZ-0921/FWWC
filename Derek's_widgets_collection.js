@@ -72,3 +72,4 @@ WidgetMetadata = {
     },
   ]
 }
+module.exports = WidgetMetadata;
