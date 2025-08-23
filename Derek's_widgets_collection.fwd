@@ -1,8 +1,7 @@
 {
-  "title": "D.自用合集",
-  "description": "东东自用模块合集",
-  "site": "https://github.com/DerekZ-0921/Derek",
-  "icon": "https://github.com/DerekZ-0921/FWWC/blob/main/fonts/icon.jpg"
+  "title": "Normal_collection",
+  "description": "东东自用正常模块合集",
+  "icon": "https://lt.sntp.uk/i/2025/08/23/68a9d454c04bb.png",
   "widgets": [
     {
       "id": "forward.combined.media.lists",
