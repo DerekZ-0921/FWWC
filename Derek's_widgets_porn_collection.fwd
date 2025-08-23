@@ -1,7 +1,7 @@
 {
   "title": "porn_collection",
   "description": "东东自用sese模块合集",
-  "icon": "https://lt.sntp.uk/i/2025/08/23/68a9d4c1affcf.png",
+  "icon": "https://lt.sntp.uk/i/2025/08/23/68a9d8330714a.png",
   "widgets": [
     {
       "id": "jable",
@@ -65,7 +65,7 @@
       "version": "1.0.6",
       "author": "Discount Code：VEUS",
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js"
-    },
+    }
   ]
 }
 
